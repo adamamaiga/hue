@@ -1,5 +1,5 @@
 # Welcome to the official Livy (http://gethue.com) developer Dockerfile
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190515
 MAINTAINER The Hue Team "https://github.com/cloudera/hue"
 
 RUN apt-get install -y software-properties-common
