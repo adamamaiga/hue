@@ -39,9 +39,9 @@
   <properties>
     <hadoop-mr1.version>2.6.0-mr1-cdh5.5.0</hadoop-mr1.version>
     <hadoop.version>2.6.0-cdh5.5.0</hadoop.version>
-    <slf4j.version>1.6.1</slf4j.version>
+    <slf4j.version>1.7.34</slf4j.version>
     <commons-logging.version>1.0.4</commons-logging.version>
-    <thrift.version>0.9.0</thrift.version>
+    <thrift.version>0.17.0</thrift.version>
     <minJavaVersion>1.7</minJavaVersion>
     <maxJavaVersion>10.0</maxJavaVersion>
     <sourceJavaVersion>1.7</sourceJavaVersion>
