@@ -24,7 +24,7 @@
     "jquery": "2.1.1",
     "knockout": "3.4.0",
     "knockout.mapping": "2.4.3",
-    "less": "2.6.1",
+    "less": "2.7.0",
     "lodash": "3.10.1",
     "pubsub.js": "1.4.3",
     "page": "^1.7.1"
