@@ -19,7 +19,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "bootstrap": "3.3.6",
+    "bootstrap": "4.0.0",
     "dompurify": "0.8.2",
     "jquery": "2.1.1",
     "knockout": "3.4.0",
